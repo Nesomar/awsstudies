@@ -1,6 +1,7 @@
 package br.com.academy.awsstudies.builders
 
 import br.com.academy.awsstudies.adapters.clients.posts.dto.PostsDTO
+import br.com.academy.awsstudies.adapters.http.dto.PostsResponse
 import br.com.academy.awsstudies.domain.Posts
 
 object PostsBuilder {

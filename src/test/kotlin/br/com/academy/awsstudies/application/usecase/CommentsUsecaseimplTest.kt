@@ -3,7 +3,6 @@ package br.com.academy.awsstudies.application.usecase
 import br.com.academy.awsstudies.adapters.http.dto.CommentsParams
 import br.com.academy.awsstudies.application.outputs.CommentsService
 import br.com.academy.awsstudies.builders.CommentsBuilder
-import br.com.academy.awsstudies.domain.Comments
 import io.mockk.MockKAnnotations
 import io.mockk.every
 import io.mockk.impl.annotations.RelaxedMockK
